@@ -6,8 +6,7 @@ For my first portfolio project my objective was to source and combine data that 
 Intrigued by renewable energy, I decided to explore the correlation between the rise in renewable energy and the potential reduction in fossil fuel consumption. My project commenced with sourcing relevant datasets on Our World in Data. 
 
 I found the following data sets relevant in answering my question. 
-1.	Renewable Energy
-<a href="[https://ourworldindata.org/grapher/renewable-share-energy?tab=table]" target="_blank">Renewable Energy</a>
+1.	[Renewable Energy](https://ourworldindata.org/grapher/renewable-share-energy?tab=table)
 2.	Fossil Fuels
 https://ourworldindata.org/grapher/fossil-fuels-share-energy?tab=table
 
