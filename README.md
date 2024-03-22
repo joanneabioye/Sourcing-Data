@@ -24,9 +24,9 @@ Engaging in this project proved to be incredibly freeing. Applying the skills ac
 
 ### Portfolio Index
 
-1. Value of Data
+1. [Value of Data](https://github.com/joanneabioye/Value-of-Data)
 
-2. [Sourcing Data](https://github.com/joanneabioye/Sourcing-Data)
+2. Sourcing Data
 
 3. [Data Analysis](https://github.com/joanneabioye/Data-Analysis/blob/main/README.md)
 
