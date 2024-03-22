@@ -7,9 +7,9 @@ Intrigued by renewable energy, I decided to explore the correlation between the 
 
 I found the following data sets relevant in answering my question. 
 1.	Renewable Energy
-https://ourworldindata.org/renewable-energy 
+https://ourworldindata.org/grapher/renewable-share-energy?tab=table
 2.	Fossil Fuels
-https://ourworldindata.org/fossil-fuels
+https://ourworldindata.org/grapher/fossil-fuels-share-energy?tab=table
 
 Now I had my datasets the next step was to format the CSV files and then migrate the data onto one workbook. Drawing on methods learned in my workshop, I opened both datasets onto one workbook. 
 
