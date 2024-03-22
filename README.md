@@ -7,7 +7,7 @@ Intrigued by renewable energy, I decided to explore the correlation between the 
 
 I found the following data sets relevant in answering my question. 
 1.	Renewable Energy
-https://ourworldindata.org/grapher/renewable-share-energy?tab=table
+<a href="[https://ourworldindata.org/grapher/renewable-share-energy?tab=table]" target="_blank">Renewable Energy</a>
 2.	Fossil Fuels
 https://ourworldindata.org/grapher/fossil-fuels-share-energy?tab=table
 
