@@ -20,7 +20,7 @@ The datasets contained data for individual countries, continents and combined da
 Engaging in this project proved to be incredibly freeing. Applying the skills acquired over the past two weeks, I successfully concluded my initial project. The primary hurdle lay in sourcing relevant datasets. Nonetheless, once I located the right resources, the data was readily available. Merging the datasets was a straightforward task since both contained an equal number of rows. Intrigued by the potential insights, I'm keen to delve deeper and compare data from different countries. This effort would present a more extensive and demanding project, given the vast amounts of data involved.
 
 
-## Portfolio Index
+## Portfolio Links
 
 1. [Value of Data](https://github.com/joanneabioye/Value-of-Data)
 
